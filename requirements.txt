@@ -1,0 +1,2 @@
+# Phase 1, Step 1 intentionally uses only Python's built-in libraries.
+# We will add pinned third-party packages only when we start handling market data.
